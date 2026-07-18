@@ -86,6 +86,6 @@ Designed a healthcare system that automates AMBU bag operation using patient vit
 
 ## Connect with Me
 
-* LinkedIn: *(Add your LinkedIn URL)*
-* Email: *(Add your email)*
+* LinkedIn: [(https://www.linkedin.com/in/yuktha-b-768945422/)](https://www.linkedin.com/in/yuktha-b-768945422/)
+* Email: byuktha28@gmail.com
 
